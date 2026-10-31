@@ -14,3 +14,6 @@ Projekt zespołowy (Godot 4.7.2 .NET, GDScript, RL przez godot_rl_agents + SB3).
 - Testy silnika rozmytego: `... --headless --path godot --script res://tests/test_fuzzy.gd` (kod wyjścia 0 = OK)
 - Walidacja bez grafiki: `"C:\Tools\Godot\Godot_v4.7.2-stable_mono_win64\Godot_v4.7.2-stable_mono_win64\Godot_v4.7.2-stable_mono_win64_console.exe" --headless --path godot --quit`
 - Środowisko: Windows, PowerShell.
+
+## Git
+- Commity tylko jako autor z konfiguracji gita (Filip Opacki). Nie dodawaj linii `Co-Authored-By` ani żadnej innej atrybucji Claude/AI w opisach commitów i PR.
