@@ -17,3 +17,5 @@ Projekt zespołowy (Godot 4.7.2 .NET, GDScript, RL przez godot_rl_agents + SB3).
 
 ## Git
 - Commity tylko jako autor z konfiguracji gita (Filip Opacki). Nie dodawaj linii `Co-Authored-By` ani żadnej innej atrybucji Claude/AI w opisach commitów i PR.
+- Opisy commitów i PR po angielsku (dokumentacja i komentarze w kodzie zostają po polsku).
+- Nie przepisuj historii (rebase, filter-branch, force push) bez wyraźnej zgody: repo jest na GitHubie i mogą je klonować inni.
